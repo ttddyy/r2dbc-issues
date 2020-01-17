@@ -1,0 +1,5 @@
+= r2dbc-proxy issue 54 - Issue when use the proxy on a ConnectionPool
+
+https://github.com/r2dbc/r2dbc-proxy/issues/54
+
+For postgres, run `src/main/resources/schema-postgres.sql` manually to setup schema.
